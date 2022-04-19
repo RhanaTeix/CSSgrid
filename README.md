@@ -1,7 +1,7 @@
 # CSSgrid
 >Learning more about CSS grid
  
-Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_]()
+Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_](https://rhanateix.github.io/CSSgrid/)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -36,8 +36,7 @@ Deployment ˚ ༘✶ ⋆｡˚ ⁀➷[_here_]()
     
   
 ## Screenshots
-![Final Result]()
-
+![FInal Result](finalresultcssgrid.png)
 
 ## Project Status
 Project is: / _complete_ /
